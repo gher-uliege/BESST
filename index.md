@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to BESST homepage 
 
-You can use the [editor on GitHub](https://github.com/gher-ulg/BESST/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Context and Objectives
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Climate studies need long-term data sets of homogeneous quality, in order to discern trends from other physical signals present in the data and to minimise the contamination of these trends by errors in the source data. Satellite data have proved as very valuable, and we count now on more than 25 years of data for variables like sea surface temperature (SST).
 
-### Markdown
+In order to obtain data sets valid for climate research, it is necessary to develop or improve techniques to homogenise data coming from different satellites, as biases exist between them due to their technical characteristics and the changing physical properties of the measured environments.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The specific objectives of this project are:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gher-ulg/BESST/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* To develop a technique to objectively derive bias fields (as function of space and time) for the various SST data sets used in meteorological, climate and oceanographic studies. These fields will be in the form of pixel-by-pixel differences between a given data set and a reference data set (ENVISAT/AATSR, Metop-A/AVHRR, ...). These fields will have sufficiantly high spatial and temporal resolution.
+* To study the temporal and spatial variability of the bias fields between sensors. This will be realised both at large scale (North Atlantic Ocean, Antarctic Ocean) and at the regional scale (North Sea, Western Mediterranean Sea). The presence of trends in the difference between sensors will be analysed.
+* The improved bias fields will allow for a more accurate estimate of long term SST trends, which will be analysed in this project.
+* Physical analysis of bias fields by estimating mixed layer depth (in case of significantly different overpass times between the two sensors) or by analysis water vapor profiles (in case of simultaneous overpasses)
+* To establish a series of cloud statistics and to infer the effect that the cloud presence/persistence has in the SST.
