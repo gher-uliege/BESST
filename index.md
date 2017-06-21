@@ -13,3 +13,7 @@ The specific objectives of this project are:
 * The improved bias fields will allow for a more accurate estimate of long term SST trends, which will be analysed in this project.
 * Physical analysis of bias fields by estimating mixed layer depth (in case of significantly different overpass times between the two sensors) or by analysis water vapor profiles (in case of simultaneous overpasses)
 * To establish a series of cloud statistics and to infer the effect that the cloud presence/persistence has in the SST.
+
+## Partners ##
+
+[Here](./Partners.md)
